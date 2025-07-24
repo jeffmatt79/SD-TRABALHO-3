@@ -3,7 +3,7 @@ com/exemplo/supermercado/model/Gerente.class
 com/exemplo/supermercado/service/FuncionarioService.class
 com/exemplo/supermercado/model/Funcionario.class
 com/exemplo/supermercado/HomeController.class
-com/exemplo/supermercado/SupermercadoApplication.class
 com/exemplo/supermercado/model/Vendedor.class
+com/exemplo/supermercado/SupermercadoApplication.class
 com/exemplo/supermercado/model/Balconista.class
 com/exemplo/supermercado/model/Caixa.class
