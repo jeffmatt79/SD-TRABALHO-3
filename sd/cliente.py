@@ -1,6 +1,6 @@
 import requests
 
-URL = 'http://localhost:8080/funcionarios'
+URL = 'http://172.25.206.77:8080/funcionarios'
 
 def listar_funcionarios():
     response = requests.get(URL)
