@@ -4,6 +4,15 @@ Este projeto implementa um sistema de gerenciamento de funcionários com uma API
 
 ## Estrutura do Projeto
 
+---
+## Autores
+DAVID SILVA FERNANDES DE OLIVEIRA - 539402
+
+JEFERSON MATEUS LOPES ALVES -  538653
+
+---
+
+## Estrutura
 ```
 SD-TRABALHO-3/
 ├── README.md
@@ -31,7 +40,7 @@ SD-TRABALHO-3/
 ## Servidor Spring Boot
 
 ### Pré-requisitos
-- Java 11 ou superior
+- Java 17 ou superior
 - Maven
 
 ### Como executar o servidor
